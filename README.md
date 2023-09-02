@@ -50,7 +50,3 @@
 * 대여 도서 이력
 * 대여 승인 목록
 * 대여 도서 상태(승인, 거부, 반납)
-
-
-----
-<img src= "https://github.com/benecia2/githup_test/assets/99549882/552a2406-4cce-47fb-8185-d16c3caa0136" width="300px" height="500px" />
